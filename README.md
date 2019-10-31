@@ -6,4 +6,4 @@ All code can be found under the jupyter notebook file. Websites are based on a 4
 An example of the Yosemite site [here](https://www.nps.gov/yose/index.htm). The program iterates to look for all urls on the site then move to those sites and acquire all urls on those pages. Once there are no new urls for the trip planning then the program will begin looking for key words and phrases. 
 
 # Site Picture:
-![Site](SiteScreenshot.png)
+![Site](./SiteScreenshot.png)
